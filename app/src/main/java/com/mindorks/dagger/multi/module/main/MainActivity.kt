@@ -30,7 +30,11 @@ class MainActivity : AppCompatActivity() {
             .build()
             .inject(this)
         Log.d("DaggerSample_Main", databaseService.toString())
-        startActivity(Intent(this,FeatureOneActivity::class.java))
+//        startActivity(Intent(this,FeatureOneActivity::class.java))
 
+        val intent = Intent().setClassName(this, "com.mindorks.sample.feature.three.FeatureThreeActivity")
+        startActivity(intent)
     }
+
+
 }

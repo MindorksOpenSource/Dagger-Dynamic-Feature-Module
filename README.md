@@ -1,21 +1,15 @@
-# Dagger Multi-Module Android
-Learn to use dagger for dependency management in a multi-module app
+# Dagger Dynamic Feature Module Android
+Learn to use dagger for dependency management in a dynamic feature module app
 
 [![MindOrks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MindorksOpenSource/Dagger-Multi-Module-Android/master/art/dagger-github.png">
+    <img src="https://s3.ap-south-1.amazonaws.com/mindorks-server-uploads/dynamic-feature-module-banner-f27f94e8e526888d.png">
 </p>
 
 ## About this Open Source Project
-This open-source project is for you(community). In this project you will learn about how to use dagger for dependency management in a multi-module app.
-### [You can find the blog to learn about Using Dagger in Multi-Module Architecture here](https://blog.mindorks.com/dagger-in-a-multi-module-project)
-## Project Structure
-<p align="start">
-    <img src="https://raw.githubusercontent.com/MindorksOpenSource/Dagger-Multi-Module-Android/master/art/project-structure.png">
-    <img src="https://s3.ap-south-1.amazonaws.com/mindorks-server-uploads/feature-dependenct-base-d29d996b697942a8.jpg">
-</p>
+This open-source project is for you(community). In this project you will learn about how to use dagger for dependency management in a multi-module app using dynamic feature module.
 
 ## Explore Android Online Tutorials and Courses To Learn More by MindOrks
 * [Android Tutorial](https://mindorks.com/android-tutorial) - All Free Android Tutorials by MindOrks

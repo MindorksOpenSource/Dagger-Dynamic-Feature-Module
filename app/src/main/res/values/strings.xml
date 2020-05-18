@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dagger-Multi-Module-Android-Example</string>
+    <string name="title_feature_three">feature-three</string>
 </resources>
