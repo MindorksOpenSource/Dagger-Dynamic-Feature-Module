@@ -11,6 +11,8 @@ Learn to use dagger for dependency management in a dynamic feature module app
 ## About this Open Source Project
 This open-source project is for you(community). In this project you will learn about how to use dagger for dependency management in a multi-module app using dynamic feature module.
 
+### [You can find the blog to learn about Using Dagger in Dynamic feature modules here](https://blog.mindorks.com/dagger-in-dynamic-feature-module)
+
 ## Explore Android Online Tutorials and Courses To Learn More by MindOrks
 * [Android Tutorial](https://mindorks.com/android-tutorial) - All Free Android Tutorials by MindOrks
 * [Android Online Course for Professionals](https://mindorks.com/android-app-development-online-course-for-professionals) - In this online course, you’ll learn the Dagger, Kotlin, RxJava, MVVM Architecture, Architecture Components, Jetpack, LiveData, ViewModel, Room Database, Database Design, Multithreading, Memory Management, Networking, Caching, How Glide works, Unit Testing, and the best practices for Android Development. By the end of this online course, you will have all the skills you need to become a professional Android Developer.
